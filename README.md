@@ -8,5 +8,6 @@ The parameters included are :
 5. Undergraduate GPA ( out of 10 )
 6. Research Experience ( either 0 or 1 ) 
 7. Chance of Admit ( ranging from 0 to 1 )
+
 This dataset was built with the purpose of helping students in shortlisting universities with their profiles. 
 The predicted output gives them a fair idea about their chances for a particular university.
